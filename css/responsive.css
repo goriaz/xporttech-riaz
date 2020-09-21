@@ -1,0 +1,836 @@
+
+
+
+
+
+
+
+@media(max-width:1024px){
+
+
+    .fixed-top {
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+        padding: 8px 54px;
+        background-color: #fff;
+        z-index: 0;
+    }
+
+    .box-4-5-6 .box {
+        display: inline-block;
+        width: 137px;
+        font-size: 12px;
+    }
+    .box-1-2-3 .box {
+        display: inline-block;
+        width: 137px;
+        font-size: 12px;
+    }
+
+
+    .client-icons  img{width: 100px;}
+
+    .client-icons .up-icons {
+        margin: 10px 53px;
+    }
+    .client-icons .bottom-icons {
+        margin: 7px 52px;
+    }
+
+    .client-button {
+        height: 51px;
+        width: 152px;
+        background-color: #EF831D;
+        justify-content: center;
+        margin: auto;
+        text-transform: uppercase;
+        text-align: center;
+        padding-top: 16px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        color: #fff;
+        font-weight: 900;
+        border-radius: 5px;
+    }
+        .fa-chevron-left {
+            position: fixed;
+            font-size: 34px;
+            color: #19A;
+            font-weight: lighter;
+            top: 140px;
+            left: 2px;
+        }
+        .fa-chevron-right {
+            position: fixed;
+            font-size: 34px;
+            color: #19A;
+            font-weight: lighter;
+            top: 140px;
+            right: 2px;
+        }
+    
+        .homepagebottom ul {
+            margin-top: 49px;
+            margin-left: 0px;
+        }
+    
+       
+    
+    
+
+}
+@media(max-width:768px){
+
+    .fixed-top {
+        position: fixed;
+        top: 0;
+        z-index: 1030;
+        padding: 8px 0px;
+        background-color: #fff;
+        z-index: 0;
+    }
+    .scrollBox {
+        position: absolute;
+        top: 674px;
+        margin: 0px;
+        padding: 0px;
+    }
+    .digital-media-left {
+        margin: 0px 183px;
+    }
+    .digital-media-right {
+        margin: 300px 12px 0px -196px;
+    }
+    .second-contact-section-bottom-part .row .box1 {
+        margin-left: -75px;
+        margin-right: 20px;
+        background-color: #fff;
+    }
+    .client-icons{
+        display: block;
+    padding: 29px 98px;
+    }
+
+  
+
+        .homepage-all {
+            position: absolute;
+            width: 100%;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: -1;
+        }
+    
+        .BannerLeft button {
+            background-color: #000;
+            color: #fff;
+            font-weight: bold;
+            width: 170;
+            height: 33px;
+            width: 180px;
+            border-radius: 7px;
+            margin: 14px 0;
+            font-size: 10px;
+        }
+    
+        .bannerRightImage1 {
+            margin-top: 50px
+        }
+        .bannerRightImage1 img{
+          width: 250px;
+        }
+        .homepagebottom ul {
+            margin-top: 39px;
+            margin-left: 0px;
+        }
+        .homepagebottom ul li a img {
+            width: 76px;
+        }
+    
+    
+    
+    
+    
+
+
+}
+
+
+@media (max-width: 425px){
+
+   
+    .homepage-all {
+        position: absolute;
+        width: 100%;
+        top: 0;
+        left: 400px;
+        right: 0;
+        z-index: -1;
+    }
+    .digital-media-left {
+        margin: 0 22px -277px 0px;
+    }
+    .digital-media-right {
+        margin: 280px -137px 7px -113px;
+    }
+    .contact-left {
+        margin: 74px 180px;
+    }
+
+
+    .about-section-right {
+    margin: -170px 29px 17px 200px;
+}
+
+.about-section-right {
+    margin: -170px 29px 17px 200px;
+}
+
+.second-contact-section-bottom-part .row .box2 {
+    background-color: #ff5;
+    margin: 14px 0px 0px 224px;
+}
+
+.client-icons {
+    display: block;
+    padding: 19px 26px;
+}
+
+.BannerLeft p {
+    color: #F58;
+    margin: 0;
+    font-size: 24px;
+}
+
+.BannerLeft h2 {
+    font-size: 55px;
+    font-weight: 1000;
+    line-height: 1.1;
+    position: relative;
+    max-width: 725px;
+    text-transform: capitalize;
+}
+.BannerLeft {
+    margin-top: 99px;
+    position: relative;
+    margin: 89px -126px;
+}
+.client-left-button {
+
+    display: none;
+}
+.BannerLeft {
+  
+    position: relative;
+    margin: 21px 74px -366px 505px;
+}
+.BannerLeft {
+    margin-top: 4px 4px 0px 0px;
+    position: relative;
+    margin: 104px 3px 23px 263px;
+}
+.scrollBox {
+    position: absolute;
+    top: 1108px;
+    margin: 0px;
+    padding: 0px;
+}
+.BannerRight {
+    margin: 10px 195px;
+}
+.homepagebottom ul {
+    margin-top: 49px;
+    margin-left: 43px;
+}
+.BannerLeft {
+    margin-top: 4px 4px 0px 0px;
+    position: relative;
+    margin: 68px 0 0 -9px;
+    top: 51px;
+    left: 220px;
+}
+.BannerLeft button {
+    background-color: #000;
+    color: #fff;
+    font-weight: bold;
+    width: 170;
+    height: 22px;
+    width: 113px;
+    border-radius: 7px;
+    font-size: 7px;
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    z-index: 1030;
+    padding: 8px 71px;
+    background-color: #fff;
+    z-index: 0;
+}
+.homepagebottom {
+    margin-top: 0px;
+    z-index: 99;
+    height: 104px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 13px;
+    bottom: 6px;
+    margin: 0 0;
+    position: relative;
+    left: 208px;
+}
+
+.second-contact-section-bottom-part .row .box1 {
+    margin-left: 0;
+    background-color: #fff;
+    position: relative;
+    left: 150px;
+}
+.second-contact-section-bottom-part .row .box2 {
+    background-color: #ff5;
+    margin: 0;
+    position: relative;
+    left: 20px;
+}
+.bottom-part .row .box2 {
+    background-color: #ff5;
+    margin: 0;
+    position: relative;
+    left: 158px;
+    top: 35px;
+}
+
+.homepage-all {
+    position: absolute;
+    width: 165%;
+    top: 0;
+    left: 83px;
+    right: 0;
+    z-index: -1;
+}
+
+.homepagebottom {
+    margin-top: 0px;
+    z-index: 99;
+    height: 104px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 13px;
+    bottom: 6px;
+    margin: 0 0;
+    position: relative;
+    left: 22px;
+    top: 67px;
+}
+.fa, .fas {
+    display: none;
+    font-weight: 900;
+    position: relative;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    z-index: 1030;
+    padding: 8px 71px;
+    background-color: #fff;
+    z-index: 123;
+}
+.fa, .fas {
+    font-weight: 900;
+    display: none;
+}
+
+.homepage-all {
+    position: absolute;
+    width: 165%;
+    top: 0;
+    left: -77px;
+    right: 0px;
+    z-index: -1;
+}
+.BannerRight {
+    margin: 0;
+    position: relative;
+    top: 51px;
+    left: 332px;
+}
+
+.bannerRightImage1 img {
+    width: 354px;
+}
+.homepagebottom {
+    margin-top: 0px;
+    z-index: 99;
+    height: 104px;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 13px;
+    bottom: 3px;
+    margin: 0 0;
+    position: relative;
+    left: 141px;
+    top: 67px;
+}
+.second-contact-section-bottom-part .row .box2 {
+    background-color: #ff5;
+    margin: 0;
+    position: relative;
+    left: 150px;
+    margin: 47px 0;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgba(0,0,0,.5);
+    border-color: rgba(0,0,0,.1);
+    width: 133px;
+    height: 79px;
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    z-index: 1030;
+    padding: 61px 150px;
+    background-color: #fff;
+    z-index: 123;
+}
+.navbar-brand img {
+    width: 284px;
+}
+.navbar-nav {
+    margin-left: 200px;
+    margin: 33px 126px;
+    font-size: 42px;
+    font-weight: 900;
+}
+.homepage-all {
+    position: absolute;
+    width: 165%;
+    top: 121px;
+    left: -82px;
+    right: 0px;
+    z-index: -1;
+}
+.BannerLeft {
+    margin-top: 4px 4px 0px 0px;
+    position: relative;
+    margin: 95px 0 0 -9px;
+    top: 51px;
+    left: 220px;
+}
+.BannerLeft p {
+    color: #F58;
+    margin: 0;
+    font-size: 35px;
+}
+.BannerLeft button {
+    background-color: #000;
+    color: #fff;
+    font-weight: bold;
+    width: 170;
+    height: 75px;
+    width: 170px;
+    border-radius: 7px;
+    font-size: 18px;
+}
+.scrollBox {
+    position: absolute;
+    top: 1513px;
+    margin: 0px;
+    padding: 0px;
+}
+.homepagebottom ul li a img {
+    width: 79px;
+    height: 75px;
+}
+.menu-bar ul {
+    text-align: center;
+    padding: 30px 0px;
+}
+.menu-bar li {
+    display: block;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin: 31px;
+}
+.menu-bar li a {
+    text-decoration: none;
+    font-size: 37px;
+    font-weight: 600;
+    margin: 0px 40px 0px 40px;
+    color: #fff;
+}
+
+
+.menu-bar {
+    background-color: #364760;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    padding: 16px 0px 0px 0;
+    position: relative;
+   
+}
+
+.digital-media h1 {
+    font-size: 58px;
+    font-weight: 900;
+    text-align: center;
+    margin: 27px 13px;
+}
+.digital-media .p1 {
+    margin: 88px 60px;
+    text-align: left;
+    font-size: 35px;
+}
+.digital-media-box .btn1 {
+    background-color: #364760;
+    padding: 86px 112px;
+    font-size: 39px;
+}
+.digital-media-box .btn2 {
+   
+    padding: 86px 112px;
+    font-size: 39px;
+}
+.btn-group {
+    margin: 0;
+}
+
+.digital-media h1 {
+    font-size: 87px;
+    font-weight: 900;
+    text-align: center;
+    margin: 50px 38px;
+}
+.digital-media-right .line {
+    width: 206px;
+    height: 2px;
+    background-color: black;
+    margin: 39px auto;
+}
+.digital-media-right p {
+    font-size: 38px;
+}
+.digital-media-right-list-left {
+    font-size: 41px;
+}
+.digital-media-right-list-right {
+    font-size: 41px;
+}
+.digital-media-right-button button {
+    background-color: #EF831E;
+    padding: 36px 70px;
+    border-radius: 8px;
+    color: white;
+    font-size: 41px;
+}
+.digital-media-right-button {
+    margin: auto;
+}
+.contact-left h4 {
+    color: #fff;
+    font-size: 50px;
+    margin: 6% 14%;
+}
+.btn3 {
+    background-color: #193C57;
+    padding: 66px 121px;
+}
+.btn4 {
+   
+    padding: 66px 121px;
+}
+.btn-group2 {
+    margin: 70px 2px;
+}
+.contact-left h3 {
+    color: #fff;
+    margin: 10px 178px;
+    font-size: 55px;
+}
+.btn3 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 94px;
+}
+.btn4 {
+    padding: 66px 121px;
+    font-size: 26px;
+}
+.contact-left h5 {
+    color: #FF1;
+    font-size: 50px;
+    text-align: center;
+}
+.contact-right {
+    margin: 0px 140px;
+}
+
+.about-section-left-box {
+    background-color: #fff;
+    padding: 20px 20px;
+    font-size: 38px;
+}
+.about-section-left h5 {
+    color: #031;
+    font-size: 87px;
+    margin: 43px 0;
+}
+.about-section-left h1 {
+    color: #006;
+    font-size: 55px;
+}
+.about-section-left .about-line {
+    width: 130px;
+    height: 2px;
+    background-color: #000;
+    text-align: center;
+    justify-content: center;
+    margin: 56px auto;
+}
+.about-section-right {
+    margin: 0;
+}
+.box-4-5-6 .box {
+    display: block;
+    width: 805px;
+    font-size: 37px;
+    height: 378px;
+    margin: 69px 121px;
+}
+.box-1-2-3 .box {
+    display: block;
+    width: 805px;
+    font-size: 37px;
+    height: 378px;
+    margin: 69px 121px;
+}
+
+.box-4-5-6 .box h5 {
+    font-size: 51px;
+    color: black;
+}
+
+.dot1 {
+    background-color: red;
+    height: 41px;
+    width: 41px;
+   
+    border-radius: 50%;
+}
+.dot2 {
+    
+    height: 41px;
+    width: 41px;
+    border-radius: 50%;
+}
+
+.second-contact-section-upper-part h2 {
+    margin: 10px 0;
+    font-size: 53px;
+}
+.second-contact-section-upper-part h5 {
+    margin: 55px 0;
+    color: #FCF;
+    font-size: 37px;
+}
+.second-contact-section-bottom-part .row .box {
+    color: #000;
+    width: 73%;
+    height: 500px;
+    margin: 0px 0px 0px 0px;
+    padding: 27px;
+}
+.second-contact-section-bottom-part .box1 ul li img {
+    width: 131px;
+    margin: 0% 34%;
+}
+.second-contact-section-bottom-part .box2 ul li img {
+    width: 131px;
+    margin: 0% 34%;
+}
+.second-contact-section-bottom-part .row .box {
+    color: #000;
+    width: 73%;
+    height: 101%;
+    margin: 0 0;
+}
+.second-contact-section-bottom-part .box1 ul li {
+    font-size: 47px;
+    margin-bottom: 42px;
+}
+
+.second-contact-section-bottom-part .box2 ul li {
+    font-size: 47px;
+    margin-bottom: 42px;
+}
+.client-section-upper-part .container h1 {
+    text-align: center;
+    font-size: 63px;
+}
+.client-section-upper-part .container p {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 39px;
+}
+.client-icons .up-icons {
+    margin: 58px -30px;
+}
+.client-icons .bottom-icons {
+    margin: 58px -30px;
+}
+.client-icons img {
+    width: 97%;
+}
+.client-button {
+    height: 99px;
+    width: 294px;
+    background-color: #EF831D;
+    justify-content: center;
+    margin: auto;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 29px;
+    margin-top: 38px;
+    margin-bottom: 46px;
+    color: #fff;
+    font-weight: 900;
+    border-radius: 5px;
+    font-size: 26px;
+}
+}
+
+@media(max-width:375px){
+
+    .BannerLeft h2 {
+        font-size: 90px;
+        font-weight: 1000;
+        line-height: 1.1;
+        position: relative;
+        max-width: 725px;
+        text-transform: capitalize;
+        margin: 0 191px;
+    }
+    .BannerLeft p {
+        color: #F58;
+        font-size: 35px;
+        margin-left: 29%;
+    }
+    #line {
+        height: 4px;
+        width: 100px;
+        background-color: #626262;
+        margin: 12% auto;
+    }
+    .BannerLeft button {
+        background-color: #000;
+        color: #fff;
+        font-weight: bold;
+        width: 170;
+        height: 11%;
+        width: 51%;
+        border-radius: 7px;
+        font-size: 30px;
+    }
+    .scrollBox {
+        position: absolute;
+        top: 701%;
+        margin: 0px;
+        padding: 0px;
+    }
+
+
+
+    .homepagebottom ul {
+        margin-top: 22px;
+        margin-left: -21px;
+    }
+    .homepagebottom ul li a img {
+        width: 129px;
+        height: 110px;
+    }
+    .homepagebottom {
+        margin-top: 0px;
+        z-index: 99;
+        background-color: #fff;
+        border-radius: 13px;
+        bottom: 3px;
+        margin: 0 0;
+        position: relative;
+    }
+    .bannerRightImage1 img {
+        width: 498px;
+    }
+    .homepagebottom ul li {
+        display: inline-flex;
+    }
+    .homepagebottom ul li a {
+        padding: 15px 1px;
+    }
+    .BannerLeft button {
+        background-color: #000;
+        color: #fff;
+        font-weight: bold;
+        width: 170;
+        height: 11%;
+        width: 51%;
+        border-radius: 7px;
+        font-size: 30px;
+        margin: 15% 32%;
+    }
+    .scrollBox {
+        position: absolute;
+        top: 788%;
+        margin: 0px;
+        padding: 0px;
+    }
+    
+
+}
+@media(max-width:320px){
+    
+       
+        
+        .homepagebottom ul li a img {
+            width: 63px;
+            display: none;
+        }
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* end of home page section  */
+
+
+
+
+
+
+
+
+
+
